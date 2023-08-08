@@ -3,7 +3,7 @@
 import blog, { ga, redirects, h } from "blog";
 
 blog({
-  title: "Davis Lang",
+  title: "Davis Lang blog",
   description: "always learning",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
