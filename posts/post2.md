@@ -1,6 +1,6 @@
 ---
 title: procedural generation
-publish_date: 2023-03-05
+publish_date: 2023-09-26
 disable_html_sanitization: true
 ---
 
