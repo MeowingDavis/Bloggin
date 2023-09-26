@@ -10,7 +10,7 @@ disable_html_sanitization: true
 
 
 
-```
+```C
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
